@@ -1,0 +1,8 @@
+<resources>
+    <string name="start_camera_front" translatable="false">Передняя камера</string>
+    <string name="start_camera_back" translatable="false">Задняя камера</string>
+    <string name="simpleTextView" translatable="false">Перевод</string>
+    <string name="text_translate">Перевод текста</string>
+    <string name="button_translate">Перевести</string>
+    <string name="button_home">На главную</string>
+</resources>

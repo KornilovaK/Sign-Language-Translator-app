@@ -1,0 +1,104 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.google.mediapipe.apps.hands"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:4:5-6:41
+8        android:minSdkVersion="21"
+8-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:5:9-35
+9        android:targetSdkVersion="30" />
+9-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:6:9-38
+10    <!-- For loading images from gallery -->
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- For using the camera -->
+11-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:8:5-80
+11-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:8:22-77
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:9:5-65
+12-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:9:22-62
+13
+14    <uses-feature android:name="android.hardware.camera" /> <!-- For logging solution events -->
+14-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:11:5-60
+14-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:11:19-57
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:12:5-67
+15-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:12:22-64
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:13:5-79
+16-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:13:22-76
+17
+18    <application
+18-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:15:5-34:19
+19        android:allowBackup="true"
+19-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:16:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.5.0] C:\Users\User\.gradle\caches\transforms-3\ee75ad03bc9246c95d82b30089764858\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:icon="@mipmap/icon"
+22-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:17:9-36
+23        android:label="Автоматический сурдопереводчик"
+23-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:18:9-55
+24        android:roundIcon="@mipmap/icon_round"
+24-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:19:9-47
+25        android:supportsRtl="true"
+25-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:20:9-35
+26        android:testOnly="true"
+27        android:theme="@style/AppTheme" >
+27-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:21:9-40
+28        <activity
+28-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:22:9-24:40
+29            android:name="com.google.mediapipe.examples.hands.Secons_activity"
+29-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:23:13-44
+30            android:exported="false" />
+30-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:24:13-37
+31        <activity
+31-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:25:9-33:20
+32            android:name="com.google.mediapipe.examples.hands.MainActivity"
+32-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:26:13-41
+33            android:screenOrientation="portrait" >
+33-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:27:13-49
+34            <intent-filter>
+34-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:28:13-32:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:29:17-69
+35-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:29:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:31:17-77
+37-->C:\Users\User\Documents\solutions\solutions\hands\src\main\AndroidManifest.xml:31:27-74
+38            </intent-filter>
+39        </activity>
+40
+41        <service
+41-->[com.google.android.datatransport:transport-backend-cct:3.1.0] C:\Users\User\.gradle\caches\transforms-3\3213072bf91f1f8f257d65c8a6e7b908\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:29:9-35:19
+42            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+42-->[com.google.android.datatransport:transport-backend-cct:3.1.0] C:\Users\User\.gradle\caches\transforms-3\3213072bf91f1f8f257d65c8a6e7b908\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:30:13-103
+43            android:exported="false" >
+43-->[com.google.android.datatransport:transport-backend-cct:3.1.0] C:\Users\User\.gradle\caches\transforms-3\3213072bf91f1f8f257d65c8a6e7b908\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:31:13-37
+44            <meta-data
+44-->[com.google.android.datatransport:transport-backend-cct:3.1.0] C:\Users\User\.gradle\caches\transforms-3\3213072bf91f1f8f257d65c8a6e7b908\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:32:13-34:39
+45                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+45-->[com.google.android.datatransport:transport-backend-cct:3.1.0] C:\Users\User\.gradle\caches\transforms-3\3213072bf91f1f8f257d65c8a6e7b908\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:33:17-94
+46                android:value="cct" />
+46-->[com.google.android.datatransport:transport-backend-cct:3.1.0] C:\Users\User\.gradle\caches\transforms-3\3213072bf91f1f8f257d65c8a6e7b908\transformed\transport-backend-cct-3.1.0\AndroidManifest.xml:34:17-36
+47        </service>
+48        <service
+48-->[com.google.android.datatransport:transport-runtime:3.1.0] C:\Users\User\.gradle\caches\transforms-3\74a2e1410603c6e140054a723d6b39a9\transformed\transport-runtime-3.1.0\AndroidManifest.xml:26:9-30:19
+49            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+49-->[com.google.android.datatransport:transport-runtime:3.1.0] C:\Users\User\.gradle\caches\transforms-3\74a2e1410603c6e140054a723d6b39a9\transformed\transport-runtime-3.1.0\AndroidManifest.xml:27:13-117
+50            android:exported="false"
+50-->[com.google.android.datatransport:transport-runtime:3.1.0] C:\Users\User\.gradle\caches\transforms-3\74a2e1410603c6e140054a723d6b39a9\transformed\transport-runtime-3.1.0\AndroidManifest.xml:28:13-37
+51            android:permission="android.permission.BIND_JOB_SERVICE" >
+51-->[com.google.android.datatransport:transport-runtime:3.1.0] C:\Users\User\.gradle\caches\transforms-3\74a2e1410603c6e140054a723d6b39a9\transformed\transport-runtime-3.1.0\AndroidManifest.xml:29:13-69
+52        </service>
+53
+54        <receiver
+54-->[com.google.android.datatransport:transport-runtime:3.1.0] C:\Users\User\.gradle\caches\transforms-3\74a2e1410603c6e140054a723d6b39a9\transformed\transport-runtime-3.1.0\AndroidManifest.xml:32:9-34:40
+55            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+55-->[com.google.android.datatransport:transport-runtime:3.1.0] C:\Users\User\.gradle\caches\transforms-3\74a2e1410603c6e140054a723d6b39a9\transformed\transport-runtime-3.1.0\AndroidManifest.xml:33:13-132
+56            android:exported="false" />
+56-->[com.google.android.datatransport:transport-runtime:3.1.0] C:\Users\User\.gradle\caches\transforms-3\74a2e1410603c6e140054a723d6b39a9\transformed\transport-runtime-3.1.0\AndroidManifest.xml:34:13-37
+57    </application>
+58
+59</manifest>

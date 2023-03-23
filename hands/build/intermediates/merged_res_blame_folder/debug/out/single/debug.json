@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-mdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-mdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.hands-merged_res-21:/raw_study.mp4.flat",
+        "source": "com.google.mediapipe.examples.hands-main-23:/raw/study.mp4"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-anydpi-v26_icon.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-anydpi-v26\\icon.xml"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.hands-merged_res-21:/raw_meet.mp4.flat",
+        "source": "com.google.mediapipe.examples.hands-main-23:/raw/meet.mp4"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-hdpi_icon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.hands-merged_res-21:/raw_where.mp4.flat",
+        "source": "com.google.mediapipe.examples.hands-main-23:/raw/where.mp4"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-xxxhdpi_icon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\raw_hello.mp4.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\raw\\hello.mp4"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-xxhdpi_icon_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-xxhdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-mdpi_icon_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-mdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-xhdpi_icon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-xhdpi\\icon.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.hands-merged_res-21:/raw_hi.mp4.flat",
+        "source": "com.google.mediapipe.examples.hands-main-23:/raw/hi.mp4"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.hands-merged_res-21:/raw_bye.mp4.flat",
+        "source": "com.google.mediapipe.examples.hands-main-23:/raw/bye.mp4"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-pngs-16:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.hands-merged_res-21:/raw_how.mp4.flat",
+        "source": "com.google.mediapipe.examples.hands-main-23:/raw/how.mp4"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.hands-merged_res-21:/raw_i.mp4.flat",
+        "source": "com.google.mediapipe.examples.hands-main-23:/raw/i.mp4"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-hdpi_icon_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-hdpi\\icon_round.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.hands-merged_res-21:/raw_school.mp4.flat",
+        "source": "com.google.mediapipe.examples.hands-main-23:/raw/school.mp4"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.hands-merged_res-21:/raw_you.mp4.flat",
+        "source": "com.google.mediapipe.examples.hands-main-23:/raw/you.mp4"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.hands-merged_res-21:/raw_may.mp4.flat",
+        "source": "com.google.mediapipe.examples.hands-main-23:/raw/may.mp4"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-xhdpi_icon_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-xhdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-hdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-hdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-xhdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-xhdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.hands-merged_res-21:/raw_name.mp4.flat",
+        "source": "com.google.mediapipe.examples.hands-main-23:/raw/name.mp4"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-xxxhdpi_icon_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-xxxhdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\raw_bye.mp4.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\raw\\bye.mp4"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.hands-merged_res-21:/raw_love.mp4.flat",
+        "source": "com.google.mediapipe.examples.hands-main-23:/raw/love.mp4"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-xxhdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-xxhdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-xxxhdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-xxxhdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\layout_activity_secons.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\layout\\activity_secons.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-xxhdpi_icon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-mdpi_icon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-anydpi-v26_icon_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-anydpi-v26\\icon_round.xml"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.hands-merged_res-21:/raw_whatsup.mp4.flat",
+        "source": "com.google.mediapipe.examples.hands-main-23:/raw/whatsup.mp4"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-merged_res-21:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\7.6\\com.google.mediapipe.examples.hands-main-23:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    }
+]
